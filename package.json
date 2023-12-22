@@ -1,0 +1,18 @@
+{
+  "name": "zksync-mint-inscription",
+  "version": "1.0.0",
+  "description": "auto mint BGNT #Inscription with typescript on zksync",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node start.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "zksync-web3": "^0.17.1"
+  }
+}
